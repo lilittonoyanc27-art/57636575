@@ -1,0 +1,6 @@
+{
+  "name": "Futbolista Millonario | Ֆուտբոլային Միլիոնատեր",
+  "description": "Իսպաներեն-հայերեն ֆուտբոլային խաղ «Ո՞վ է ուզում դառնալ միլիոնատեր», արտահայտություններ, հարցեր և թվերի գուշակման բոնուս-խաղ (100–100,000):",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
